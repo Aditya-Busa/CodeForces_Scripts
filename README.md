@@ -20,7 +20,8 @@ Instructions :
     Sort_By = -2 descending by solved_count
     
 How to run : 
-    1. python3 main.py (If you don't have required libraries, error will pop up, do download them using 'pip3 install <library_name>')
-    2. You will be asked for number of tags you want to enter
-    3. Now you have to enter all the IDs of the tags you want to include, the list is available for your reference at the end of this code
-    4. DONE, A problems.txt file will be created, check that.
+    
+1. python3 main.py (If you don't have required libraries, error will pop up, do download them using 'pip3 install <library_name>')
+2. You will be asked for number of tags you want to enter
+3. Now you have to enter all the IDs of the tags you want to include, the list is available for your reference at the end of this code
+4. DONE, A problems.txt file will be created, check that.
